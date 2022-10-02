@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # United States GDP
+> This project is part of the Data Visualization Certification FreeCodeCamp!!
 
 ## Live Demo
 [See the project here](https://codepen.io/Luis-David-RodriguezV/pen/WNJXOBG)
