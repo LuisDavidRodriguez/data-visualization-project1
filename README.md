@@ -11,6 +11,8 @@ If you’re familiar with data analysis, then you must have encountered data vis
 
 It enables humans to detect trends and patterns in large data sets without wasting time and also gives meaning to complicated datasets and helps businesses identify the areas that require improvement and attention. With the rise of big data upon us, we need to be able to interpret increasingly larger batches of data in a quicker and more interactive way
 
+### The user now is able to understand and see in a visual way a huge batch of data that otherwise would be pretty difficult to understand in is raw format!. 
+
 ![Mi video-25](https://user-images.githubusercontent.com/105079888/193476039-80eb9fb3-4e1d-4a26-8414-bb06271a7ec5.gif)
 
 ![Captura](https://user-images.githubusercontent.com/105079888/193476115-fb02b38b-6d71-4048-8352-e42471fe7ab7.PNG)
